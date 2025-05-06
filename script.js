@@ -5,16 +5,16 @@ const products = Array.from({ length: 83 }, (_, i) => {
     
     // Set specific prices based on product ID
     switch(id) {
-        case 1: price = 100; break;
-    case 2: price = 200; break;
-    case 3: price = 100; break;
-    case 4: price = 100; break;
-    case 5: price = 100; break;
-    case 6: price = 100; break;
-    case 7: price = 100; break;
-    case 8: price = 100; break;
-    case 9: price = 100; break;
-    case 10: price = 100; break;
+        case 1: price = 99; break;
+    case 2: price = 199; break;
+    case 3: price = 99; break;
+    case 4: price = 99; break;
+    case 5: price = 99; break;
+    case 6: price = 99; break;
+    case 7: price = 99; break;
+    case 8: price = 99; break;
+    case 9: price = 99; break;
+    case 10: price = 99; break;
     case 11: price = 100; break;
     case 12: price = 100; break;
     case 13: price = 100; break;
